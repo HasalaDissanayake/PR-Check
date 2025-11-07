@@ -1,1 +1,1 @@
-console.log("This gives no conflict")
+console.log("This gives conflict")
